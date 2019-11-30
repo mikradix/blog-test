@@ -1,0 +1,12 @@
+title: The YAML Title
+theme: minima
+author: Michael
+email: mikradix@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the yaml description for my new site that will appear in my document head meta (for
+  Google search results) and my feed.xml site description.
+
+# social links
+github_username: mikradix
+
+show_excerpts: true # set to false to remove excerpts on the homepage
