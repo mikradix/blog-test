@@ -1,5 +1,5 @@
 title: The YAML Title
-theme: minima
+theme: jekyll-theme-midnight
 author: Michael
 email: mikradix@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
